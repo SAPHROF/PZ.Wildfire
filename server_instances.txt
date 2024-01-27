@@ -5,3 +5,4 @@
 [3]aeiou : (June 2023) Bell Server - Faction only safehouse idea by Bell, no multihit, 5 player limit for faction safehouse, urban zombie with zombie respawn off (manually spawned). September 2023, restored safehouse claiming to non-factions, LV reset. December 2023, sleep required, zombies set to random (including sprinters)
 [4]island : (August 2023) Solumavus Server - Kingsmouth map, no respawn at safehouses, standard loot and zombie respawn settings 
 [5]slab : (December 2023) Latest server - No respawn at safehouses, standard loot, uniform zombie distribution, NoMoCulling patch applied (removed after January 2024)
+[6]gratis : (December 2023) Copy of [1] world from June 2023 and changed to -nosteam server, no safehouse protection, safehouse respawn
