@@ -1,0 +1,7 @@
+[Number] Server Instance Nickname : 
+
+[1]servertest : (February 2023) Original Wildfire server - Multihit on, 2 week safehouses, 3 days to claim, No map chunk resets, uniform zombie distribution, standard zombie with on/off loot
+[2]eschate : (April 2023) Hardcore server requested by Angelrose - No /all chat, no multihit, no loot respawn, uniform zombie distribution
+[3]aeiou : (June 2023) Bell Server - Faction only safehouse idea by Bell, no multihit, 5 player limit for faction safehouse, urban zombie with zombie respawn off (manually spawned). September 2023, restored safehouse claiming to non-factions, LV reset. December 2023, sleep required, zombies set to random (including sprinters)
+[4]island : (August 2023) Solumavus Server - Kingsmouth map, no respawn at safehouses, standard loot and zombie respawn settings 
+[5]slab : (December 2023) Latest server - No respawn at safehouses, standard loot, uniform zombie distribution, NoMoCulling patch applied (removed after January 2024)

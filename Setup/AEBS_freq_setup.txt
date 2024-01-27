@@ -1,0 +1,12 @@
+To set the AEBS radio frequency for a new world, edit ISDynamicRadio.lua at the following block, then create the world
+
+DynamicRadio.channels = {
+    { --channel
+        name = "Automated Emergency Broadcast System",
+        freq = {88000,108000}, -- number for static frequency, or table for random: {min, max};
+        category = "Emergency", --Emergency type
+        uuid = "EMRG-711984", --must remain fixed.
+        register = true, --if existing channel dont register, existing channel must match the uuid found in radiodata.xml
+        airCounterMultiplier = 1.0, --optional, change time text displays.
+    }
+};
